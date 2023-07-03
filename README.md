@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lipsa Behera</h1>
 <h3 align="center">A final year IT Student and a passionate web developer</h3>
-<img align ="right" alt="coding"   src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="400" >
+<img align ="right" alt="coding"   src="https://camo.githubusercontent.com/77971436de10fd1707510a120094781a8a4fe68e79d4159d0bb1168161923470/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f302a4b32574c4d5445784c79696461374f522e676966" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipsa22&label=Profile%20views&color=0e75b6&style=flat" alt="lipsa22" /> </p>
 
