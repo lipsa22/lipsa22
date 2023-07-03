@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lipsa Behera</h1>
 <h3 align="center">A final year IT Student and a passionate web developer</h3>
-<img align ="right" alt="coding"   src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="400" >
+<img align ="right" alt="coding"   src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lipsa22&label=Profile%20views&color=0e75b6&style=flat" alt="lipsa22" /> </p>
 
